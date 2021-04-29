@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>HTML Photos </title>
+    
+  </head>
+
+  <body>
+ <figure> 
+    <figcaption><h1>All Gym</h1></figcaption>
+<figure>
+  	<img src="C:\Users\J\Desktop\School term 2021\webpage design\Lab activity images\Images\firefox.png"
+  	     
+  	     width="250" height="250"
+		 title ="Firefox Logo">
+  	<figcaption>All Gym</figcaption>
+<figure>
+  </body>
+
+</html>
